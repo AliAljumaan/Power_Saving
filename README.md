@@ -3,9 +3,9 @@ Transistors can be used in servo motors to reduce power consumption when there i
 
 ![PowerSavingServo](https://user-images.githubusercontent.com/108624020/182668691-243a8802-be03-4a9d-8878-68a19004abd0.png)
 
-The link of the circuit is [here](https://www.tinkercad.com/things/bz5nrGm1nhk-powersavingservo/editel)
+The link of the circuit is [here](https://www.tinkercad.com/things/bz5nrGm1nhk-powersavingservo/editel).
 
-the code used to run the circut
+the code used to run the circut.
 ```
 #include <Servo.h>
 
